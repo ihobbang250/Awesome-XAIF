@@ -17,6 +17,7 @@
 - Embedding-Aligned Language Models, *NeurIPS'24* [[Paper](https://arxiv.org/pdf/2406.00024)]
 - LLMs are Also Effective Embedding Models: An In-depth Overview, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2412.12591)]
 - Understanding LLM Embeddings for Regression, *DeepMind'24* [[Paper](https://arxiv.org/pdf/2411.14708)]
+- Company Similarity using Large Language Models, *Arxiv'23* [[Paper](https://arxiv.org/pdf/2308.08031)]
 - Interpreting Embedding Spaces by Conceptualization, *EMNLP'23* [[Paper](https://aclanthology.org/2023.emnlp-main.106.pdf)]
 
 ## 🔎Interpretability
