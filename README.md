@@ -7,11 +7,6 @@
 > Welcome to Awesome-XAIF, a curated collection of research on Explainable AI (XAI) for Financial challenges. Discover XAI methods that enhance transparency, trust, and decision-making in AI-driven finance. Contributions welcome!
 ---
 
-## Contents
-- [💡 Embedding](#embedding)
-- [🔎 Interpretability](#interpretability)
----
-
 ## 💡Embedding
 - Demystifying Embedding Spaces using Large Language Models, *ICLR'24* [[Paper](https://arxiv.org/pdf/2310.04475)]
 - Embedding-Aligned Language Models, *NeurIPS'24* [[Paper](https://arxiv.org/pdf/2406.00024)]
