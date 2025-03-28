@@ -20,6 +20,7 @@
 - LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations, *ICLR'25* [[Paper](https://arxiv.org/pdf/2410.02707)]
 - The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities, *ICLR'25* [[Paper](https://arxiv.org/pdf/2411.04986)]
 - Scaling and evaluating sparse autoencoders, *ICLR'25* [[Paper](https://openreview.net/pdf?id=tcsZt9ZNKD)]
+- Steering Large Language Model Activations in Sparse Spaces, *Arxiv'25* [[Paper](https://arxiv.org/pdf/2503.00177)]
 - Interpretable Company Similarity with Sparse Autoencoders, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2412.02605)]
 - The linear representation hypothesis and the geometry of large language models, *ICML'24* [[Paper](https://dl.acm.org/doi/10.5555/3692070.3693675)]
 - k-Sparse Autoencoders, *Arxiv'14* [[Paper](https://arxiv.org/pdf/1312.5663)]
